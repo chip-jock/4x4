@@ -13,7 +13,7 @@ const Liam = () => {
             <span className="font-bold italic">AT11</span> - 2024
           </p>
           <p>Powder coated steel</p>
-          <p>16” x 10” x 42” | $400</p>
+          <p>16” x 10” x 42”</p>
         </div>
         <div>
           <p>
@@ -21,7 +21,7 @@ const Liam = () => {
             embroidery edition ft. Anna Malicka, 2024
           </p>
           <p>Powder coated steel</p>
-          <p>16” x 10” x 42” | $400</p>
+          <p>16” x 10” x 42”</p>
         </div>
       </div>
       <div className="grid grid-cols-4 gap-4">

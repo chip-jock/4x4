@@ -16,7 +16,7 @@ const Zac = () => {
           custom connectors, Altec 416b, Altec 812 with 511
           MidFrequency Horn, PIONEER PT-R7 Ribbon Super Tweeter
         </p>
-        <p>72” x 36” x 18” | $95,000</p>
+        <p>72” x 36” x 18”</p>
       </div>
       <div className="grid grid-cols-3 gap-2">
         <div>

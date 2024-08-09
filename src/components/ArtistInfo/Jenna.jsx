@@ -15,7 +15,7 @@ const Jenna = () => {
           Silk Tussar & Muga Dyed with Cochineal, Poplar, Polyurethane
           wax, Epoxy glue, Foam, Dacron
         </p>
-        <p>39” x 14” x 18” | $1500</p>
+        <p>39” x 14” x 18”</p>
       </div>
       <div className="grid grid-cols-4 gap-2">
         <img src={jenna0} />

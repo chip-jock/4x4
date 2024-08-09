@@ -13,7 +13,7 @@ const Morgan = () => {
         <p>
           Salvaged metals, steel ball bearings, wood spheric balls
         </p>
-        <p>5' x 3' x 3' | $1195</p>
+        <p>5' x 3' x 3'</p>
       </div>
       <div className="grid grid-cols-3 gap-2">
         <img src={morgan0} />
