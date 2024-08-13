@@ -3,7 +3,7 @@ import ImageCarousel from '../../components/ImageCarousel/ImageCarousel';
 
 const Home = () => {
   return (
-    <div>
+    <div className="flex-1">
       <ImageCarousel />
     </div>
   );

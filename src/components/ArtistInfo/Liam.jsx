@@ -1,8 +1,8 @@
 import React from 'react';
-import liam0 from '/src/assets/liam0.jpg';
-import liam1 from '/src/assets/liam1.jpg';
-import liam2 from '/src/assets/liam2.jpg';
-import liam3 from '/src/assets/liam3.jpg';
+import liam0 from '/src/assets/1.liam/4x4-liam0.webp';
+import liam1 from '/src/assets/1.liam/4x4-liam1.webp';
+import liam2 from '/src/assets/1.liam/4x4-liam2.webp';
+import liam3 from '/src/assets/1.liam/4x4-liam3.webp';
 
 const Liam = () => {
   return (

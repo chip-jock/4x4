@@ -1,8 +1,8 @@
 import React from 'react';
-import jenna0 from '/src/assets/jenna0.jpg';
-import jenna1 from '/src/assets/jenna1.jpg';
-import jenna2 from '/src/assets/jenna2.jpg';
-import jenna3 from '/src/assets/jenna3.jpg';
+import jenna0 from '/src/assets/4.jenna/4x4-jenna0.webp';
+import jenna1 from '/src/assets/4.jenna/4x4-jenna1.webp';
+import jenna2 from '/src/assets/4.jenna/4x4-jenna2.webp';
+import jenna3 from '/src/assets/4.jenna/4x4-jenna3.webp';
 
 const Jenna = () => {
   return (

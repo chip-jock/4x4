@@ -1,7 +1,7 @@
 import React from 'react';
-import zac0 from '/src/assets/zac0.jpg';
-import zac1 from '/src/assets/zac1.jpg';
-import zac2 from '/src/assets/zac2.jpg';
+import zac0 from '/src/assets/2.zac/4x4-zac0.webp';
+import zac1 from '/src/assets/2.zac/4x4-zac1.webp';
+import zac2 from '/src/assets/2.zac/4x4-zac2.webp';
 
 const Zac = () => {
   return (

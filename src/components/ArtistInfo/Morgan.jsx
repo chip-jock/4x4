@@ -1,7 +1,7 @@
 import React from 'react';
-import morgan0 from '/src/assets/morgan0.jpg';
-import morgan1 from '/src/assets/morgan1.jpg';
-import morgan2 from '/src/assets/morgan2.jpg';
+import morgan0 from '/src/assets/3.morgan/4x4-morgan0.webp';
+import morgan1 from '/src/assets/3.morgan/4x4-morgan1.webp';
+import morgan2 from '/src/assets/3.morgan/4x4-morgan2.webp';
 
 const Morgan = () => {
   return (
