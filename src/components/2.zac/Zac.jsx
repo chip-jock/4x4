@@ -54,9 +54,9 @@ const Zac = () => {
             <div>
               <p className="py-1">
                 Stainless Steel, ST-70 style amplifier, Proteus
-                Pre-amplifier, PS audio Phono Stage, technics sl 1100,
+                Pre-amplifier, PS Audio Phono Stage, Technics SL-1100,
                 custom connectors, Altec 416b, Altec 812 with 511
-                MidFrequency Horn, PIONEER PT-R7 Ribbon Super Tweeter
+                Mid-Frequency Horn, Pioneer PT-R7 Ribbon Super Tweeter
               </p>
               <p className="py-1">72” x 36” x 18”</p>
             </div>
