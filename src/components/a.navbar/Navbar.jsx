@@ -62,7 +62,7 @@ const Navbar = () => {
                 item.bold ? 'font-bold' : '', // Apply bold class conditionally
                 item.current
                   ? 'bg-gray-900 text-white'
-                  : 'text-black hover:text-amber-500 hover:font-bold',
+                  : 'text-black hover:text-black hover:font-bold',
                 'block px-3 py-2 text-lg'
               )}
             >
@@ -107,7 +107,7 @@ const Navbar = () => {
                     item.bold ? 'font-bold' : '', // Apply bold class conditionally
                     item.current
                       ? 'bg-gray-900 text-white'
-                      : 'text-black hover:text-amber-500 hover:font-bold',
+                      : 'text-black hover:text-black hover:font-bold',
                     'block px-3 py-2 text-lg text-center' // Center text and block element
                   )}
                 >
