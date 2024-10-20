@@ -16,18 +16,24 @@ import About from '/src/components/c.about/About';
 
 const App = () => {
   return (
-    <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/liam-mcclure" element={<Liam />} />
-        <Route path="/zac-benloulou" element={<Zac />} />
-        <Route path="/morgan-hass" element={<Morgan />} />
-        <Route path="/jenna-katheryn-heinemann" element={<Jenna />} />
-        <Route path="/exhibition-text" element={<ExText />} />
-        <Route path="/about" element={<About />} />
-      </Routes>
-    </Router>
+    <div className="w-screen h-screen">
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route exact path="/" element={<Home />} />
+          <Route exact path="/liam-mcclure" element={<Liam />} />
+          <Route exact path="/zac-benloulou" element={<Zac />} />
+          <Route exact path="/morgan-hass" element={<Morgan />} />
+          <Route
+            exact
+            path="/jenna-katheryn-heinemann"
+            element={<Jenna />}
+          />
+          <Route exact path="/exhibition-text" element={<ExText />} />
+          <Route exact path="/about" element={<About />} />
+        </Routes>
+      </Router>
+    </div>
   );
 };
 
