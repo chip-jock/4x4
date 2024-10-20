@@ -20,17 +20,13 @@ const App = () => {
       <Router>
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<Home />} />
-          <Route exact path="/liammcclure" element={<Liam />} />
-          <Route exact path="/zacbenloulou" element={<Zac />} />
-          <Route exact path="/morganhass" element={<Morgan />} />
-          <Route
-            exact
-            path="/jennakatherynheinemann"
-            element={<Jenna />}
-          />
-          <Route exact path="/exhibitiontext" element={<ExText />} />
-          <Route exact path="/about" element={<About />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/liammcclure" element={<Liam />} />
+          <Route path="/zacbenloulou" element={<Zac />} />
+          <Route path="/morganhass" element={<Morgan />} />
+          <Route path="/jennakatherynheinemann" element={<Jenna />} />
+          <Route path="/exhibitiontext" element={<ExText />} />
+          <Route path="/about" element={<About />} />
         </Routes>
       </Router>
     </div>
